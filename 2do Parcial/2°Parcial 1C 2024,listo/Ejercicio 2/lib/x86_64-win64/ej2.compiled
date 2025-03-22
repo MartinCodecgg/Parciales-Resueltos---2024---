@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1482330472"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq &quot;-FiC:\Users\enzos\Desktop\Archivos\Facultad\Recursada Programacion 1\Estudio dentro de cuatrimestre\Segundo Parcial\2°Parcial 1C 2024\Ejercicio 2\lib\x86_64-win64&quot; &quot;-FuC:\Users\enzos\Desktop\Archivos\Facultad\Recursada Programacion 1\Estudio dentro de cuatrimestre\Segundo Parcial\2°Parcial 1C 2024\Ejercicio 2\&quot; &quot;-FUC:\Users\enzos\Desktop\Archivos\Facultad\Recursada Programacion 1\Estudio dentro de cuatrimestre\Segundo Parcial\2°Parcial 1C 2024\Ejercicio 2\lib\x86_64-win64\&quot; &quot;-FEC:\Users\enzos\Desktop\Archivos\Facultad\Recursada Programacion 1\Estudio dentro de cuatrimestre\Segundo Parcial\2°Parcial 1C 2024\Ejercicio 2\&quot; &quot;-oC:\Users\enzos\Desktop\Archivos\Facultad\Recursada Programacion 1\Estudio dentro de cuatrimestre\Segundo Parcial\2°Parcial 1C 2024\Ejercicio 2\ej2.exe&quot; ej2.lpr"/>
+</CONFIG>

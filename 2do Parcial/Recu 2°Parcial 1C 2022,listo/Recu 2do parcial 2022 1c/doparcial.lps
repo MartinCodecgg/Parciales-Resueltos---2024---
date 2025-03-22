@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="doparcial.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="73"/>
+        <CursorPos X="45" Y="81"/>
+        <FoldState Value=" T3j5083 PYb0H"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\parcial.lpr"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="28">
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="177" Column="38" TopLine="165"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="20" Column="50" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="177" Column="28" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="163" Column="18" TopLine="132"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="185" Column="46" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="179" Column="43" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="138" Column="70" TopLine="131"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="178" Column="6" TopLine="160"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="174" Column="10" TopLine="157"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="143" Column="24" TopLine="130"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="70" Column="45" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="155" Column="24" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="151" Column="46" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="131" Column="2" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="189" Column="10" TopLine="175"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="161" Column="55" TopLine="153"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="80" Column="21" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="68" Column="33" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="39" Column="10" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="67" Column="45" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="64" Column="45" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="67" Column="40" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="152" Column="57" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="82" Column="49" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="84" Column="65" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="153" Column="31" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="83" Column="32" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="144" TopLine="128"/>
+      </Position>
+      <Position>
+        <Filename Value="doparcial.lpr"/>
+        <Caret Line="85" Column="53" TopLine="70"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

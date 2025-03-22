@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ejerc1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="120"/>
+        <CursorPos X="51" Y="159"/>
+        <FoldState Value=" T3a0B6 Pj4j90w"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="5">
+      <Position>
+        <Filename Value="ejerc1.lpr"/>
+        <Caret Line="79" Column="51" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc1.lpr"/>
+        <Caret Line="85" Column="45" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc1.lpr"/>
+        <Caret Line="86" Column="49" TopLine="74"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc1.lpr"/>
+        <Caret Line="96" Column="16" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc1.lpr"/>
+        <Caret Line="79" Column="11" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="ejerc1.lpr"/>
+        <Caret Line="70" Column="50" TopLine="37"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

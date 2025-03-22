@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ej2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="86"/>
+        <CursorPos Y="99"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="93" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="111" TopLine="99"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="102" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="103" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="105" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="106" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="77" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="84" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="77" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="84" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="77" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="84" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="77" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="79" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="80" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="93" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="85" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="91" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="93" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="85" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="91" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="93" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="85" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="91" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="93" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="111" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="102" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="103" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="105" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="ej2.lpr"/>
+        <Caret Line="106" TopLine="97"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="ej2.lpr"/>
+        <Line Value="99"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
